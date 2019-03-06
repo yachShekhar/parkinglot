@@ -1,0 +1,3 @@
+mvn clean install
+java -cp target/parkinglot-1.0-SNAPSHOT.jar com.shekhar.parkinglot.Application
+ 
